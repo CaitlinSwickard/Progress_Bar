@@ -21,6 +21,11 @@ body {
   margin: 0;
 }
 
+.header {
+  padding-bottom: 60px;
+  color: var(--line-border-fill)
+}
+
 /* main container for the element */
 .container {
   text-align: center;
